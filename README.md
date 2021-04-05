@@ -1,2 +1,2 @@
-# he-thong-nha-kinh-iot-ung-dung-lora
-Hệ thống nhà kính IOT ứng dựng công nghệ LoRa được phát triển dựa trên ESP32, Arduino, Nodejs và C# Winform
+# Hệ thống nhà kính IOT ứng dụng LoRa
+*Hệ thống nhà kính IOT ứng dựng LoRa được phát triển dựa trên ESP32, Arduino, LoRa, Nodejs và C# Winform*
