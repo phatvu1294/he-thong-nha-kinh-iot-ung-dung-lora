@@ -1,8 +1,0 @@
-E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\M2Mqtt\bin\Debug\M2Mqtt.dll
-E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\M2Mqtt\bin\Debug\M2Mqtt.pdb
-E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\M2Mqtt\obj\x86\Debug\M2Mqtt.dll
-E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\M2Mqtt\obj\x86\Debug\M2Mqtt.pdb
-E:\Solution\Electronics\GH IOT\Software\M2Mqtt\bin\Debug\M2Mqtt.dll
-E:\Solution\Electronics\GH IOT\Software\M2Mqtt\bin\Debug\M2Mqtt.pdb
-E:\Solution\Electronics\GH IOT\Software\M2Mqtt\obj\x86\Debug\M2Mqtt.dll
-E:\Solution\Electronics\GH IOT\Software\M2Mqtt\obj\x86\Debug\M2Mqtt.pdb

@@ -1,4 +1,0 @@
-E:\Solution\Electronics\GH IOT\Software\AGauge\bin\Debug\AGauge.dll
-E:\Solution\Electronics\GH IOT\Software\AGauge\bin\Debug\AGauge.pdb
-E:\Solution\Electronics\GH IOT\Software\AGauge\obj\x86\Debug\AGauge.dll
-E:\Solution\Electronics\GH IOT\Software\AGauge\obj\x86\Debug\AGauge.pdb
