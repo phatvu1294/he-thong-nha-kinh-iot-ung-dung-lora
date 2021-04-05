@@ -1,0 +1,37 @@
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\AGauge\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\AGauge\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\AGauge\obj\x86\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\AGauge\obj\x86\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\AGauge\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\AGauge\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\AGauge\obj\x86\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\AGauge\obj\x86\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\AGauge\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\AGauge\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\AGauge\obj\x86\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\AGauge\obj\x86\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\AGauge\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\AGauge\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\AGauge\obj\x86\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\AGauge\obj\x86\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\AGauge\obj\x86\Release\AGauge.csprojResolveAssemblyReference.cache
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\AGauge\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\AGauge\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\AGauge\obj\x86\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\AGauge\obj\x86\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\AGauge\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\AGauge\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\AGauge\obj\x86\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\AGauge\obj\x86\Release\AGauge.pdb
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\AGauge\bin\Release\AGauge.dll
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\AGauge\bin\Release\AGauge.pdb
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\AGauge\obj\x86\Release\AGauge.dll
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\AGauge\obj\x86\Release\AGauge.pdb
+E:\Solution\Electronics\GH IOT\Software\AGauge\bin\Release\AGauge.dll
+E:\Solution\Electronics\GH IOT\Software\AGauge\bin\Release\AGauge.pdb
+E:\Solution\Electronics\GH IOT\Software\AGauge\obj\x86\Release\AGauge.dll
+E:\Solution\Electronics\GH IOT\Software\AGauge\obj\x86\Release\AGauge.pdb
+E:\Solution\Electronics\Big Projects\GH IOT\Software\AGauge\bin\Release\AGauge.dll
+E:\Solution\Electronics\Big Projects\GH IOT\Software\AGauge\bin\Release\AGauge.pdb
+E:\Solution\Electronics\Big Projects\GH IOT\Software\AGauge\obj\x86\Release\AGauge.dll
+E:\Solution\Electronics\Big Projects\GH IOT\Software\AGauge\obj\x86\Release\AGauge.pdb

@@ -1,0 +1,455 @@
+html,
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin: 0 0 100px;
+  padding: 0;
+  color: #212121;
+  color: rgba(0, 0, 0, .87);
+  background: #fff;
+}
+
+iframe {
+  font-size: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  border: 0;
+  outline: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2 {
+  letter-spacing: -.15px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+h6 {
+  font-weight: 500;
+  line-height: 1.65;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 12px;
+}
+
+a {
+  text-decoration: none;
+
+  color: #4184f3;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #4184f3;
+}
+
+.container {
+  width: 100%;
+}
+
+.header-wrapper,
+.header,
+.header-inner,
+.main-wrapper,
+.main,
+.content-wrapper,
+.content,
+.footer-wrapper,
+.footer-links,
+.footer,
+.navbar-wrapper,
+.navbar-header,
+.navbar {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.header-wrapper {
+  border-bottom: 1px solid #e0e0e0;
+  background: #f5f5f5;
+}
+
+.header {
+  position: relative;
+  max-width: 830px;
+  min-height: 150px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.header h1 {
+  font-weight: 500;
+}
+
+.header-inner {
+  position: absolute;
+  bottom: 25px;
+  left: 15px;
+  color: #212121;
+  color: rgba(0, 0, 0, .87);
+}
+
+.header-inner a {
+  text-decoration: none;
+  color: #212121;
+  color: rgba(0, 0, 0, .87);
+}
+
+.main-wrapper {
+  font-size: 0;
+  display: block;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
+.main {
+  max-width: 830px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.content-wrapper {
+  font-size: 1rem;
+  display: inline-block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  vertical-align: top;
+}
+
+.content {
+  padding: 25px 15px;
+}
+
+.content img {
+  display: block;
+  max-width: 100%;
+  margin: auto;
+}
+
+.footer-wrapper {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100px;
+  color: #212121;
+  color: rgba(0, 0, 0, .54);
+  border-top: 1px solid #e0e0e0;
+  background: #f5f5f5;
+}
+
+.footer-links {
+  position: absolute;
+  right: 15px;
+  bottom: 40px;
+  left: 15px;
+  text-align: center;
+}
+
+.footer-links ul {
+  margin: 0 -.5rem;
+  padding: 0;
+  list-style: none;
+}
+
+.footer-links li {
+  font-size: 1rem;
+  display: inline-block;
+  margin: 0 .5rem;
+}
+
+.footer-links li a {
+  color: #757575;
+  color: rgba(0, 0, 0, .54);
+}
+
+.footer-links li a:hover {
+  text-decoration: none;
+  color: #212121;
+  color: rgba(0, 0, 0, .87);
+}
+
+.footer {
+  position: absolute;
+  right: 15px;
+  bottom: 10px;
+  left: 15px;
+
+  text-align: center;
+}
+
+.navbar-wrapper {
+  z-index: 1;
+  width: 100%;
+  border-bottom: 1px solid #e0e0e0;
+  background: #f5f5f5;
+}
+
+.navbar {
+  width: 830px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.navbar a {
+  line-height: 1;
+  display: inline-block;
+  padding: 16px 20px;
+  text-decoration: none;
+  color: #212121;
+  color: rgba(0, 0, 0, .87);
+}
+
+.navbar a:hover,
+.navbar a.active {
+  background: #e0e0e0;
+}
+
+.navbar-header {
+  display: none;
+  width: 100%;
+  text-align: right;
+  background: #f5f5f5;
+}
+
+.navbar-toggle {
+  font-size: 1.25rem;
+  line-height: 1;
+  padding: 13px 21px;
+  cursor: pointer;
+  color: #757575;
+  color: rgba(0, 0, 0, .54);
+  border: 1px solid transparent;
+  background: transparent;
+}
+
+.navbar-wrapper.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar-wrapper.sticky+.main-wrapper {
+  padding-top: 49px;
+}
+
+.monitoring-wrapper .monitoring {
+  margin-left: -15px;
+  padding: 0;
+}
+
+.display-wrapper .display {
+  margin: 0 0 15px 15px;
+  border: 1px solid #e0e0e0;
+}
+
+.display .display-title {
+  font-weight: 500;
+  padding: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #e0e0e0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.display .display-title:first-child {
+  border-top: none;
+}
+
+.display .display-gauge {
+  min-height: 120px;
+  padding: 30px 15px 15px;
+}
+
+.display .display-chart {
+  padding: 30px 15px 15px;
+}
+
+.display .display-detail {
+  padding: 15px;
+  text-align: center;
+  border-top: 1px solid #e0e0e0;
+}
+
+.display .display-content {
+  padding: 15px;
+  border-top: 1px solid #e0e0e0;
+  background: #f5f5f5;
+}
+
+.display-detail .light-before,
+.display-detail .light-after {
+  font-weight: 500;
+}
+
+.display-content .level-title,
+.display-content .suggest-title {
+  font-weight: 500;
+}
+
+.control-wrapper .control {
+  display: flex;
+  margin-left: -15px;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+.control .switch-wrapper {
+  width: 100%;
+  max-width: 50%;
+}
+
+.switch-wrapper .switch {
+  margin: 0 0 15px 15px;
+  border: 1px solid #e0e0e0;
+}
+
+.switch .switch-title {
+  font-weight: 500;
+  padding: 15px;
+  text-transform: uppercase;
+}
+
+.switch .switch-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: 120px;
+  max-height: 240px;
+  margin: auto;
+}
+
+.switch .switch-input {
+  margin: 0 20px 0 0;
+}
+
+.switch .switch-input input {
+  width: 100%;
+  height: 36px;
+  padding: 6px 6px 6px 12px;
+  border: none;
+}
+
+.switch .switch-toggle,
+.switch .switch-apply {
+  font-weight: 500;
+  width: 100%;
+  padding: 15px;
+  cursor: pointer;
+  text-align: center;
+  text-transform: uppercase;
+  border: none;
+  border-top: 1px solid #e0e0e0;
+  outline: 0;
+  background: #f5f5f5;
+}
+
+.forecast-wrapper {
+  margin-left: -15px;
+  padding: 0;
+}
+
+.forecast-wrapper .forecast {
+  min-height: 50px;
+  margin: 0 0 15px 15px;
+  padding: 15px;
+  border: 1px solid #e0e0e0;
+}
+
+.forecast .forecast-title {
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.forecast .forecast-image img {
+  float: left;
+  margin: 0 15px 0 0;
+}
+
+.forecast-update {
+  font-size: 80%;
+  text-align: right;
+}
+
+@media (max-width: 768px) {
+  .navbar-wrapper .navbar.active {
+    position: absolute;
+    z-index: 1;
+    display: block;
+    overflow: auto;
+    max-height: 241px;
+    margin-top: 1px;
+    border-bottom: 1px solid #e0e0e0;
+    background: #f5f5f5;
+  }
+  .navbar-header {
+    display: block;
+  }
+  .navbar {
+    display: none;
+    width: 100%;
+  }
+  .navbar a {
+    display: block;
+    text-align: center;
+  }
+  .control .switch-wrapper {
+    max-width: 100%;
+  }
+}

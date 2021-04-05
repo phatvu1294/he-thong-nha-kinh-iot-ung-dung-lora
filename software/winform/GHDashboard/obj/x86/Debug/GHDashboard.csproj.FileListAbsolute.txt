@@ -1,0 +1,16 @@
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Debug\ESP8266Dashboard.exe.config
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Debug\ESP8266Dashboard.exe
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Debug\ESP8266Dashboard.pdb
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Debug\AGauge.dll
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Debug\M2Mqtt.dll
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Debug\AGauge.pdb
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Debug\M2Mqtt.pdb
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Debug\GHDashboard.csprojResolveAssemblyReference.cache
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Debug\ESP8266Dashboard.frmAbout.resources
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Debug\ESP8266Dashboard.frmLog.resources
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Debug\ESP8266Dashboard.frmMain.resources
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Debug\ESP8266Dashboard.frmSplash.resources
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Debug\ESP8266Dashboard.Properties.Resources.resources
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Debug\GHDashboard.csproj.GenerateResource.Cache
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Debug\ESP8266Dashboard.exe
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Debug\ESP8266Dashboard.pdb

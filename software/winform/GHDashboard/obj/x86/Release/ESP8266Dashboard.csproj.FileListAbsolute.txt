@@ -1,0 +1,98 @@
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\bin\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\bin\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\bin\Release\M2Mqtt.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\bin\Release\M2Mqtt.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csprojResolveAssemblyReference.cache
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmSplash.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.Properties.Resources.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csproj.GenerateResource.Cache
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmMain.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client-base\ESP8266Dashboard\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csprojResolveAssemblyReference.cache
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmMain.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmSplash.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.Properties.Resources.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csproj.GenerateResource.Cache
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csprojResolveAssemblyReference.cache
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmMain.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmSplash.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.Properties.Resources.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2.1\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csproj.GenerateResource.Cache
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csprojResolveAssemblyReference.cache
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmMain.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmSplash.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.Properties.Resources.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csproj.GenerateResource.Cache
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.dll
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.pdb
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csprojResolveAssemblyReference.cache
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmMain.resources
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmSplash.resources
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.Properties.Resources.resources
+E:\Solution\Electronic Projects\ESP8266\module_esp8266_iot_1.2\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csproj.GenerateResource.Cache
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.2\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.exe.config
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.exe
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\AGauge.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.dll
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\AGauge.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.pdb
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csprojResolveAssemblyReference.cache
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmMain.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmSplash.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.Properties.Resources.resources
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csproj.GenerateResource.Cache
+E:\Solution\Electronic Projects\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmLog.resources
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.exe.config
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.exe
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\ESP8266Dashboard.pdb
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\AGauge.dll
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.dll
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\AGauge.pdb
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\bin\Release\M2Mqtt.pdb
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csprojResolveAssemblyReference.cache
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmAbout.resources
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmLog.resources
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmMain.resources
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.frmSplash.resources
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.Properties.Resources.resources
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.csproj.GenerateResource.Cache
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.exe
+E:\Solution\Electronics\ESP8266\Module ESP8266 IOT\module_esp8266_iot_1.3\firmware\csharp-client\ESP8266Dashboard\obj\x86\Release\ESP8266Dashboard.pdb

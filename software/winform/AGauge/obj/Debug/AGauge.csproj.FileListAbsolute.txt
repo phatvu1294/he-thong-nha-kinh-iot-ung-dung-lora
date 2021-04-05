@@ -1,0 +1,4 @@
+C:\Users\Phat Vu\Documents\Visual Studio 2010\Projects\ESP8266Client\Libraries\AGauge\bin\Debug\AGauge.dll
+C:\Users\Phat Vu\Documents\Visual Studio 2010\Projects\ESP8266Client\Libraries\AGauge\bin\Debug\AGauge.pdb
+C:\Users\Phat Vu\Documents\Visual Studio 2010\Projects\ESP8266Client\Libraries\AGauge\obj\Debug\AGauge.dll
+C:\Users\Phat Vu\Documents\Visual Studio 2010\Projects\ESP8266Client\Libraries\AGauge\obj\Debug\AGauge.pdb

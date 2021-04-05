@@ -1,0 +1,32 @@
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Release\GHDashboard.exe.config
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Release\GHDashboard.exe
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Release\GHDashboard.pdb
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Release\AGauge.dll
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Release\M2Mqtt.dll
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Release\AGauge.pdb
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\bin\Release\M2Mqtt.pdb
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.csprojResolveAssemblyReference.cache
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.frmAbout.resources
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.frmLog.resources
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.frmMain.resources
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.frmSplash.resources
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.Properties.Resources.resources
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.csproj.GenerateResource.Cache
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.exe
+E:\Solution\Electronics\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.pdb
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\bin\Release\GHDashboard.exe.config
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\bin\Release\GHDashboard.exe
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\bin\Release\GHDashboard.pdb
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\bin\Release\AGauge.dll
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\bin\Release\M2Mqtt.dll
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\bin\Release\AGauge.pdb
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\bin\Release\M2Mqtt.pdb
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.csprojResolveAssemblyReference.cache
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.frmAbout.resources
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.frmLog.resources
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.frmMain.resources
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.frmSplash.resources
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.Properties.Resources.resources
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.csproj.GenerateResource.Cache
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.exe
+E:\Solution\Electronics\Big Projects\GH IOT\Software\GHDashboard\obj\x86\Release\GHDashboard.pdb

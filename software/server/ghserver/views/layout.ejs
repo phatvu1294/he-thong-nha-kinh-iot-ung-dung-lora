@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+  <meta content='IE=Edge, chrome=1' http-equiv='X-UA-Compatible' />
+  <meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+  <title>GH Server</title>
+  <link rel="stylesheet" href="css/roboto/roboto-fontface.css" />
+  <link rel="stylesheet" href="css/normalize.css" />
+  <link rel="stylesheet" href="css/modern.css" />
+</head>
+
+<body>
+  <div class="container">
+    <div class="header-wrapper">
+      <div class="header">
+        <div class="header-inner">
+          <h1><a href='/'>GH Server</a></h1>
+          <h5>Mô hình hệ thống nhà kính IOT</h5>
+        </div>
+      </div>
+    </div>
+    <div class="navbar-wrapper" id="navbar-wrapper">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle">
+          &#9776;
+        </button>
+      </div>
+      <div class="navbar">
+        <a <%=( page=="index" )? "class=active": "" %> href="/">Trang chủ</a>
+        <a <%=( page=="monitoring" )? "class=active": "" %> href="/monitoring">Giám sát</a>
+        <a <%=( page=="control" )? "class=active": "" %> href="/control">Điều khiển</a>
+        <a <%=( page=="forecast" )? "class=active": "" %> href="/forecast">Dự báo thời tiết</a>
+        <a <%=( page=="about" )? "class=active": "" %> href="/about">Về tác giả</a>
+      </div>
+    </div>
+    <div class="main-wrapper">
+      <div class="main">
+        <div class="content-wrapper">
+          <div class="content">
+            <%- body %>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-wrapper">
+      <div class="footer-links">
+        <ul>
+          <li><a href="http://www.phatvu1294.blogspot.com/" target="_blank">Blog</a></li>
+          <li><a href="http://www.facebook.com/phatvu1294/" target="_blank">Facebook</a></li>
+          <li><a href="http://www.youtube.com/channel/UC5zZnz7mg__XiEuZ4FBO5tg" target="_blank">Youtube</a></li>
+        </ul>
+      </div>
+      <div class="footer">
+        &#169; 2018 Vũ Phát
+      </div>
+    </div>
+  </div>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/index.js"></script>
+  <% if (page == "monitoring") { %>
+    <script src="js/raphael.min.js"></script>
+    <script src="js/justgage.min.js"></script>
+    <script src="js/Chart.min.js"></script>
+    <script src="socket.io/socket.io.js"></script>
+    <script src="js/monitoring.js"></script>
+    <% } else if (page == "control") { %>
+      <script src="socket.io/socket.io.js"></script>
+      <script src="js/control.js"></script>
+      <% } else if (page == "forecast") { %>
+        <script src="socket.io/socket.io.js"></script>
+        <script src="js/forecast.js"></script>
+        <% } %>
+</body>
+
+</html>
