@@ -1,5 +1,5 @@
 # Hệ thống nhà kính IOT ứng dụng LoRa
-*Hệ thống nhà kính IOT ứng dựng LoRa được phát triển dựa trên ESP32, Arduino, LoRa, Nodejs và C# Winform*
+*Hệ thống nhà kính IOT ứng dựng LoRa được phát triển dựa trên ESP32, Arduino, LoRa, MQTT, Nodejs và C# Winform*
 
 ### Giới thiệu
 Đây là một dự án hoàn toàn mới tại Việt Nam, việc áp dụng IOT và công nghệ LoRa đã mở ra một bước đi mới trong nghành nông nghiệp. Đi đôi với cuộc cách mạng công nghệ 4.0, IOT là một phần thiết yếu để phát triển nông nghiệp. Với việc gần như được áp dụng vào thực tế, càng chứng tỏ đây chính là một dự án cấp thiết, việc nghiên cứu và phát triển thêm sẽ càng giúp cho đất nước chúng ta hội nhập và phát triển hơn nữa.
@@ -42,4 +42,4 @@ Phần mềm được xây dựng dựa trên nền tảng C# .NET. Hỗ trợ n
 
 ### Video demo hệ thống
 
-[https://youtu.be/TktAAO-llQs](https://youtu.be/TktAAO-llQs)
+[https://www.youtube.com/watch?v=TktAAO-llQs](https://www.youtube.com/watch?v=TktAAO-llQs)
