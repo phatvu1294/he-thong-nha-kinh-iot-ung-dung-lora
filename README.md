@@ -1,4 +1,4 @@
-# Hệ thống nhà kính IOT ứng dụng LoRa Public
+# Hệ Thống Nhà Kính IOT Ứng Dụng LoRa Public
 *Hệ thống nhà kính IOT ứng dựng LoRa được phát triển dựa trên ESP32, Arduino, LoRa, MQTT, Nodejs và C# Winform*
 
 ### Giới thiệu
